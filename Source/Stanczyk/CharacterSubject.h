@@ -13,5 +13,6 @@ UCLASS()
 class STANCZYK_API ACharacterSubject : public ACharacterBase
 {
 	GENERATED_BODY()
+
 	
 };
